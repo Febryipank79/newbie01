@@ -260,7 +260,7 @@ if [ $pil = 0 ]
 then
 echo $me"TERIMA KASIH TELAH MENGGUNAKAN TOOL INI"                                       
 sleep 1
-echo $me"Author:Rasyid"
+echo $me"Author:RASYID"
 exit
 fi
 
