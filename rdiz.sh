@@ -120,9 +120,9 @@ echo $me"                 ██  ██████████████"
 echo $pu"                 ████████  ████  ██"
 echo $pu"                 ██  ██████████████"
 echo $bi"[X]"$i "X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•"$bi"[X]"
-echo $pu" |" $me"["$pu" Author :"$me"]"$bi" DimasPnr"$pu"                            |"
-echo $pu" |" $me"["$pu" WhatsApp :"$me"]"$bi" 083873098030"$pu"                      |"
-echo $pu" |" $me"["$pu" THANKS TO :"$me"]"$bi"[Allah Swt] [Deray] [Faiz]"$pu"        |"
+echo $pu" |" $me"["$pu" Author :"$me"]"$bi" R A S Y I D"$pu"                            |"
+echo $pu" |" $me"["$pu" WhatsApp :"$me"]"$bi" 082339450278"$pu"                      |"
+echo $pu" |" $me"["$pu" THANKS TO :"$me"]"$bi"[Allah Swt] R5D_CYBER"$pu"        |"
 echo $bi"[X]"$i "X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•"$bi"[X]"
 echo
 echo $pu"•"$bi"────────────────────"$pu"•"
@@ -260,7 +260,7 @@ if [ $pil = 0 ]
 then
 echo $me"TERIMA KASIH TELAH MENGGUNAKAN TOOL INI"                                       
 sleep 1
-echo $me"Author:R.Diz"
+echo $me"Author:R A S Y I D"
 exit
 fi
 
