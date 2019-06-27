@@ -122,7 +122,7 @@ echo $pu"                 ██  ██████████████"
 echo $bi"[X]"$i "X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•"$bi"[X]"
 echo $pu" |" $me"["$pu" Author :"$me"]"$bi" Rasyid"$pu"                            |"
 echo $pu" |" $me"["$pu" WhatsApp :"$me"]"$bi" 082339450278"$pu"                      |"
-echo $pu" |" $me"["$pu" THANKS TO :"$me"]"$bi"[Allah Swt] [Deray] [Faiz]"$pu"        |"
+echo $pu" |" $me"["$pu" TOOLS :"$me"]"$bi"FB CRACKING PASSWORD"$pu"        |"
 echo $bi"[X]"$i "X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•"$bi"[X]"
 echo
 echo $pu"•"$bi"────────────────────"$pu"•"
